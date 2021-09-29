@@ -1,0 +1,6 @@
+canvas {
+    animation-name:example;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    border:25px;
+   } 
